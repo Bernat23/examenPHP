@@ -14,20 +14,7 @@ if(isset($_SESSION["hora"])){
 }
 
 
-/**
- * Llegeix les dades del fitxer. Si el document no existeix torna un array buit.
- *
- * @param string $file
- * @return array
- */
-function llegeix(string $file) : array
-{
-    $var = [];
-    if ( file_exists($file) ) {
-        $var = json_decode(file_get_contents($file), true);
-    }
-    return $var;
-}
+
 ?>
 <!DOCTYPE html>
 <html lang="ca">
