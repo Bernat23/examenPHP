@@ -1,0 +1,158 @@
+[
+    {
+        "ip": "::1",
+        "user": "bernat@bernat",
+        "time": "2022-10-29 00:15:54",
+        "status": "creacio-fallida"
+    },
+    {
+        "ip": "::1",
+        "user": "asdfkjl@asfd",
+        "time": "2022-10-29 00:16:08",
+        "status": "usuari-incorrecte"
+    },
+    {
+        "ip": "::1",
+        "user": "bernat@bernat",
+        "time": "2022-10-29 00:16:12",
+        "status": "correcte"
+    },
+    {
+        "ip": "::1",
+        "user": "bernat@bernat",
+        "time": "2022-10-29 00:20:29",
+        "status": "contrasenya-incorrecte"
+    },
+    {
+        "ip": "::1",
+        "user": "bernat@berna",
+        "time": "2022-10-29 00:20:43",
+        "status": "nou-usuari"
+    },
+    {
+        "ip": "192.168.1.116",
+        "user": "bernat@bernat",
+        "time": "2022-10-29 11:23:31",
+        "status": "contrasenya-incorrecte"
+    },
+    {
+        "ip": "192.168.1.116",
+        "user": "bernat@bernat",
+        "time": "2022-10-29 11:23:35",
+        "status": "correcte"
+    },
+    {
+        "ip": "192.168.1.116",
+        "user": "ber68546@kljdsaf",
+        "time": "2022-10-29 11:24:01",
+        "status": "nou-usuari"
+    },
+    {
+        "ip": "192.168.1.116",
+        "user": "asdf@dasf",
+        "time": "2022-10-29 11:24:14",
+        "status": "nou-usuari"
+    },
+    {
+        "ip": "192.168.1.116",
+        "user": "asdf@dasf",
+        "time": "2022-10-29 11:24:44",
+        "status": "correcte"
+    },
+    {
+        "ip": "192.168.1.116",
+        "user": "bernat@bernat",
+        "time": "2022-10-29 11:25:42",
+        "status": "contrasenya-incorrecte"
+    },
+    {
+        "ip": "::1",
+        "user": "",
+        "time": "2022-10-29 12:46:48",
+        "status": "usuari-incorrecte"
+    },
+    {
+        "ip": "::1",
+        "user": "",
+        "time": "2022-10-29 12:46:49",
+        "status": "usuari-incorrecte"
+    },
+    {
+        "ip": "::1",
+        "user": "",
+        "time": "2022-10-29 12:48:48",
+        "status": "usuari-incorrecte"
+    },
+    {
+        "ip": "::1",
+        "user": "",
+        "time": "2022-10-29 12:48:52",
+        "status": "nou-usuari"
+    },
+    {
+        "ip": "::1",
+        "user": "",
+        "time": "2022-10-29 12:48:58",
+        "status": "creacio-fallida"
+    },
+    {
+        "ip": "::1",
+        "user": "ab@aba",
+        "time": "2022-10-29 12:53:04",
+        "status": "nou-usuari"
+    },
+    {
+        "ip": "::1",
+        "user": "asdf@dasadfaaasd",
+        "time": "2022-10-29 12:53:30",
+        "status": "nou-usuari"
+    },
+    {
+        "ip": "::1",
+        "user": "",
+        "time": "2022-10-29 12:57:06",
+        "status": "creacio-fallida"
+    },
+    {
+        "ip": "::1",
+        "user": "",
+        "time": "2022-10-29 12:58:14",
+        "status": "creacio-fallida"
+    },
+    {
+        "ip": "::1",
+        "user": "",
+        "time": "2022-10-29 13:00:52",
+        "status": "correcte"
+    },
+    {
+        "ip": "::1",
+        "user": "",
+        "time": "2022-10-29 13:00:54",
+        "status": "correcte"
+    },
+    {
+        "ip": "::1",
+        "user": "asdf@da",
+        "time": "2022-10-29 13:00:57",
+        "status": "contrasenya-incorrecte"
+    },
+    {
+        "ip": "::1",
+        "user": "",
+        "time": "2022-10-29 13:00:58",
+        "status": "correcte"
+    },
+    {
+        "ip": "::1",
+        "user": "adf@sa",
+        "time": "2022-10-29 13:01:07",
+        "status": "usuari-incorrecte"
+    },
+    {
+        "ip": "::1",
+        "user": "",
+        "time": "2022-10-29 13:01:09",
+        "status": "creacio-fallida"
+    }
+]

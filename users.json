@@ -18,5 +18,80 @@
         "nom": "bernat",
         "correu": "basd@bsl",
         "password": "adsf"
+    },
+    "pp@pp": {
+        "nom": "bernat",
+        "correu": "pp@pp",
+        "password": "pp"
+    },
+    "asdf@dad": {
+        "nom": "afa",
+        "correu": "asdf@dad",
+        "password": "daf"
+    },
+    "asdf@dadaf": {
+        "nom": "adfdf",
+        "correu": "asdf@dadaf",
+        "password": "daf"
+    },
+    "bernat@bernatafsda": {
+        "nom": "afdsa",
+        "correu": "bernat@bernatafsda",
+        "password": "asfd"
+    },
+    "afsd@xn--sdaslk-1wa": {
+        "nom": "asfd",
+        "correu": "afsd@xn--sdaslk-1wa",
+        "password": "adsf"
+    },
+    "afds@sasfda": {
+        "nom": "asdfa",
+        "correu": "afds@sasfda",
+        "password": "afd"
+    },
+    "asfdaa@idpuso": {
+        "nom": "asdf",
+        "correu": "asfdaa@idpuso",
+        "password": "asdf"
+    },
+    "basd@bslds": {
+        "nom": "bernat",
+        "correu": "basd@bslds",
+        "password": "dasda"
+    },
+    "asdf@daad": {
+        "nom": "bernatb",
+        "correu": "asdf@daad",
+        "password": "sfasd"
+    },
+    "bernat@berna": {
+        "nom": "bernat",
+        "correu": "bernat@berna",
+        "password": "adf"
+    },
+    "ber68546@kljdsaf": {
+        "nom": "bernat",
+        "correu": "ber68546@kljdsaf",
+        "password": ""
+    },
+    "asdf@dasf": {
+        "nom": "",
+        "correu": "asdf@dasf",
+        "password": ""
+    },
+    "": {
+        "nom": "",
+        "correu": "",
+        "password": ""
+    },
+    "ab@aba": {
+        "nom": "ba",
+        "correu": "ab@aba",
+        "password": "da"
+    },
+    "asdf@dasadfaaasd": {
+        "nom": "asdfasdfa",
+        "correu": "asdf@dasadfaaasd",
+        "password": "saf"
     }
 }

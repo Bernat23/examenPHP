@@ -1,3 +1,34 @@
+<?php
+session_start();
+/**
+ * Comprova si existeix els segon, si existeix mira que fa menys 
+ * de 60 segons que estàs connectat i et reconnecta a la pàgina 
+ * de hola.php, sinó destrueix la sessió
+ */
+if(isset($_SESSION["hora"])){
+    if(time() - $_SESSION["hora"] < 60){
+        header("Location:hola.php", true, 302);
+    } else {
+        session_destroy();
+    }
+}
+
+
+/**
+ * Llegeix les dades del fitxer. Si el document no existeix torna un array buit.
+ *
+ * @param string $file
+ * @return array
+ */
+function llegeix(string $file) : array
+{
+    $var = [];
+    if ( file_exists($file) ) {
+        $var = json_decode(file_get_contents($file), true);
+    }
+    return $var;
+}
+?>
 <!DOCTYPE html>
 <html lang="ca">
 <head>
@@ -7,7 +38,21 @@
     <link href="style.css" rel="stylesheet">
 
 </head>
-<body>
+<body>                  
+    <div class="error" <?php //Si no arriba cap error amagar el camp de mostrar l'error
+    if(!isset($_GET["error"])){
+        echo "style='visibility: hidden;'";
+    } else {//Si l'error ve de la sign-up canviem l'estil de mostrar l'error
+        if($_GET["error"] == "creacio-fallida"){
+            echo "style='color:#FF4B2B;background-color:white';";
+        }
+    }
+    ?>>
+    <?php //si arriba un error mostrar el missatge d'error
+    if(isset($_GET["error"])){
+        echo $_GET["error"];
+    } ?>
+    </div>
     <div class="container" id="container">
         <div class="form-container sign-up-container">
             <form action="process.php" method="post">
