@@ -13,8 +13,6 @@ if(isset($_SESSION["hora"])){
     }
 }
 
-
-
 ?>
 <!DOCTYPE html>
 <html lang="ca">

@@ -93,5 +93,15 @@
         "nom": "asdfasdfa",
         "correu": "asdf@dasadfaaasd",
         "password": "saf"
+    },
+    "hello@xn--helloj-0wa": {
+        "nom": "bernat",
+        "correu": "hello@xn--helloj-0wa",
+        "password": ""
+    },
+    "bernat@bernatber": {
+        "nom": "asdfjl\u00f1",
+        "correu": "bernat@bernatber",
+        "password": "asdfdsa"
     }
 }

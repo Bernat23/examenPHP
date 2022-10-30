@@ -154,5 +154,101 @@
         "user": "",
         "time": "2022-10-29 13:01:09",
         "status": "creacio-fallida"
+    },
+    {
+        "ip": "::1",
+        "user": "bernat@bernat",
+        "time": "2022-10-29 15:11:29",
+        "status": "correcte"
+    },
+    {
+        "ip": "::1",
+        "user": "hello@xn--helloj-0wa",
+        "time": "2022-10-29 15:12:02",
+        "status": "nou-usuari"
+    },
+    {
+        "ip": "::1",
+        "user": "asdf@da",
+        "time": "2022-10-29 15:12:22",
+        "status": "creacio-fallida"
+    },
+    {
+        "ip": "::1",
+        "user": "bernat@bernatber",
+        "time": "2022-10-29 15:12:41",
+        "status": "nou-usuari"
+    },
+    {
+        "ip": "::1",
+        "user": "bernat@bernat",
+        "time": "2022-10-29 15:13:05",
+        "status": "correcte"
+    },
+    {
+        "ip": "::1",
+        "user": "bernat@bernat",
+        "time": "2022-10-30 21:57:16",
+        "status": "correcte"
+    },
+    {
+        "ip": "::1",
+        "user": "asdf@da",
+        "time": "2022-10-30 21:57:30",
+        "status": "contrasenya-incorrecte"
+    },
+    {
+        "ip": "::1",
+        "user": "asdf@dad",
+        "time": "2022-10-30 21:57:38",
+        "status": "contrasenya-incorrecte"
+    },
+    {
+        "ip": "::1",
+        "user": "",
+        "time": "2022-10-30 21:57:40",
+        "status": "correcte"
+    },
+    {
+        "ip": "::1",
+        "user": "asdf@da",
+        "time": "2022-10-30 21:57:48",
+        "status": "contrasenya-incorrecte"
+    },
+    {
+        "ip": "::1",
+        "user": "bernat@bernat",
+        "time": "2022-10-30 21:58:15",
+        "status": "creacio-fallida"
+    },
+    {
+        "ip": "::1",
+        "user": "bernat@bernat",
+        "time": "2022-10-30 21:58:45",
+        "status": "correcte"
+    },
+    {
+        "ip": "::1",
+        "user": "dasnnaksnfdal@dasjkl",
+        "time": "2022-10-30 22:01:51",
+        "status": "usuari-incorrecte"
+    },
+    {
+        "ip": "::1",
+        "user": "bernat@bernat1241",
+        "time": "2022-10-30 22:02:01",
+        "status": "usuari-incorrecte"
+    },
+    {
+        "ip": "::1",
+        "user": "bernat@bernat",
+        "time": "2022-10-30 22:02:08",
+        "status": "contrasenya-incorrecte"
+    },
+    {
+        "ip": "::1",
+        "user": "bernat@bernat23",
+        "time": "2022-10-30 22:02:14",
+        "status": "usuari-incorrecte"
     }
 ]
